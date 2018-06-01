@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #666;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.box{
+	width: 10px;
+	height: 10px;
+	background: blue;
+	border-radius: 50%;
+	position: absolute;
+	top: 100%;
+	left: 50%;
+}
+.box1{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 5%;
+	left: 30%;
+}
+.box2{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 10%;
+	left: 5;
+}
+.box3{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 15%;
+	left: 30%;
+}
+.box4{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 20%;
+	left: 60%;
+}
+.box5{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 25%;
+	left: 10%;
+}
+.box6{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 30%;
+	left: 70%;
+}
+.box7{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 35%;
+	left: 120%;
+}
+.box8{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 40%;
+	left: 180%;
+}
+.box9{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 45%;
+	left: 76%;
+}
+.box10{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 50%;
+	left: 20%;
+}
+.box11{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 55%;
+	left: 87%;
+}
+.box12{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 60%;
+	left: 33%;
+}
+.box13{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 65%;
+	left: 80%;
+}
+.box14{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 70%;
+	left: 20%;
+}
+.box15{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 75%;
+	left: 50%;
+}
+.box16{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 80%;
+	left: 160%;
+}
+.box17{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 85%;
+	left: 10%;
+}
+.box18{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 90%;
+	left: 70%;
+}
+.box19{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 30%;
+	left: 100%;
+}
+.box20{
+	width: 90%;
+	height: 10px;
+	background: red;
+	position: absolute;
+	top: 1%;
+	left: 150%;
+}
+#over{
+	width: 100%;
+	background: blueviolet;
+	text-align: center;
+	font-style: italic;
+	font-size: 100px;
+	text-shadow: 30px 30px 30px white;
+	color: white;
+	position: absolute;
+	top: -100%;
+	transition: all 1s linear;
+}
+#btn{
+	cursor: pointer;
+}
+#btn:hover{
+    text-shadow: 40px 40px 40px white;
+    color: wheat;
+    font-weight: 900;
+}
