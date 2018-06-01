@@ -54,7 +54,7 @@
 				var btn =document.querySelector("#btn");
 				btn.onclick = function(){
 				
-					window.location.href="小游戏.html";
+					window.location.href="index.html";
 				}
 				var height = document.documentElement.clientHeight;
 				console.log(height);
