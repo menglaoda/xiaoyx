@@ -38,8 +38,6 @@
 							overspan.innerHTML = "game over";
 							over.style.top = 0+"px";
 							over.style.lineHeight = height+'px';
-							
-							return;
 						}
 						//运动	current + iSpeed	
 						obj.style[attr] = current + iSpeed + "px";					
@@ -114,8 +112,6 @@
 									over.style.top = 0+"px";
 									over.style.lineHeight = height+'px';
 									overspan.innerHTML = "厉害哟，你赢了";
-									return;
-						
             		}
             	console.log(box.offsetTop)
             }
